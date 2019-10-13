@@ -1,2 +1,22 @@
-main{width:90%;text-align:center;margin:0 auto}
-/*# sourceMappingURL=main.css.map */
+@charset "UTF-8";
+
+body
+{/* Font styles from Google fonts */
+ font-family: 'Poppins', Helvetica, Arial, sans-serif;
+ font-family: 'Merriweather','New Times Roman', serif;
+ color: #414141;
+ background-color: #ededed;
+}
+
+.hidden {
+    display: none;
+}
+
+
+.container
+{
+ margin: 0px auto;
+ padding: 0px 15px 0 15px;
+ max-width: 1200px; 
+}
+

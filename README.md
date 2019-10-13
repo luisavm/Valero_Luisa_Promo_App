@@ -26,7 +26,7 @@ To install: `npm install`
 Vela website is live at https://vela-app.herokuapp.com/
 
 ## Reference
-* Pictures made by [http://www.pexels.com] - a free stock website
+Stock pictures made by http://www.pexels.com - a free stock website
 
 ## Developer and Designer
 Luisa Valero - https://github.com/luisavm
