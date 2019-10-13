@@ -1,18 +1,17 @@
 
-# Vela
+# Vela | Art of Living Stylish
 ![Vela Logo](/public/images/vela_readme.jpg)
 
-## Art of Living Stylish
-It is a brand new day for wonderful home goods
+## About
+It is a brand new day for wonderful home goods. One of products of wall planters use it for organizational storage or to hold your favourite plants.
 
 
 ## Built with
 * **HTML5**
 * **SASS/CSS3**
 * **JavaScript**
-**Node JS**
-**Express**
-**Handlebars**
+* **Node JS**
+* **Express**
 
 ## Packages to Install 
 If you run the `cat package.json` command, you'll see that you need these packages to run the program:
@@ -20,18 +19,14 @@ If you run the `cat package.json` command, you'll see that you need these packag
 * NPM
 * Node JS
 * Express
-* Gulp Dependencies
 
 To install: `npm install`
 
-## Workspaces (Designer)
-* Adobe Photoshop/Illustrator
+## heroic
+Vela website is live at https://vela-app.herokuapp.com/
 
-## References
-* Pictures made by [http://www.pexels.com] 
-
-## Note
-The site was built with HTML5 and CSS. HTML5 runs on Chrome, Firefox, and Safari.
+## Reference
+* Pictures made by [http://www.pexels.com] - a free stock website
 
 ## Developer and Designer
 Luisa Valero - https://github.com/luisavm
