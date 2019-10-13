@@ -1,5 +1,42 @@
-main {
-    width: 90%;
-    text-align: center;
-    margin: 0 auto;
+@charset "UTF-8";
+@import "_vars";
+@import "_main-navigation";
+@import "_width-img";
+@import "_trendings";
+@import "_giardiano";
+@import "_our-designs";
+@import "_footer";
+
+.hidden {
+    display: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    @include h1-class;
+}
+
+h2 {
+    @include h2-class;
+}
+
+h3 {
+    @include h4-class;
+}
+
+h4 {
+    @include h4-class;
+}
+
+h5 {
+    @include h5-class;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
 }
